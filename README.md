@@ -25,10 +25,7 @@
       height="35" alt="gmail logo"  /> </a> <a href="www.linkedin.com/in/abdul-rahman-05a7a3130" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="linkedin logo"  /> </a> <a
-    href="https://wa.me/92185053545?text=Hello%2C%20AbdulRahman%20How%20are%20you" target="_blank">  <img
-      src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="whatsapp logo"  /> </a> </div> <br clear="both">
+      height="35" alt="linkedin logo"  /> </a> 
 <div align="left">
   <!-- Languages -->
   <h3>Languages</h3>
