@@ -2,8 +2,8 @@
 <h3 align="center">Frontend Developer</h3>
 <hr /> 
 <p>
-- 🔭 I’m currently working on Shopify Embedded Apps
-- 🌱 I’m currently learning Ruby and node
+- 🔭 I’m currently working on Shopify Embedded Apps<br/>
+- 🌱 I’m currently learning Ruby and node<br/>
 - 👯 I’m looking to collaborate on Mobile and Web Apps
 </p>
 <hr />
