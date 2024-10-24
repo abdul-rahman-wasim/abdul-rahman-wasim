@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Developer (React JS/React Native Developer)</h3>
 <hr /> 
 <p>
 - 🔭 I’m currently working on Shopify Embedded Apps<br/>
