@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
 <h3 align="center">Frontend Developer</h3>
-<hr /> - 🔭 I’m currently working on *Shopify Embedded Apps and Moile Apps* <br />- 👯 I’m looking to collaborate on
-*Long Term Projects*
+<hr /> 
+<p>
+- 🔭 I’m currently working on Shopify Embedded Apps
+- 🌱 I’m currently learning Ruby and node
+- 👯 I’m looking to collaborate on Mobile and Web Apps
+</p>
 <hr />
 <p align="left"> </p>
 <div align="center"> <img
