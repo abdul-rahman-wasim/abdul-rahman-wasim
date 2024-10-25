@@ -79,5 +79,5 @@
   <!-- <h3>Others</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30"
     alt="numpy logo"  /> -->
-<img src="https://raw.githubusercontent.com/abdul-rahman-wasim/abdul-rahman-wasim/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abdul-rahman-wasim/abdul-rahman-wasim/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
