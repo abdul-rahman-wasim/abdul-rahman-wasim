@@ -7,18 +7,6 @@
 - 👯 I'm looking to collaborate on Mobile and Web Apps
 </p>
 <hr />
-<p align="left"> </p>
-<div align="center"> <img
-    src="https://github-readme-stats.vercel.app/api?username=abdul-rahman-wasim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-    height="150" alt="stats graph"/> <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rahman-wasim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150" alt="languages graph"  /> </div>
-<div width="50">
-  <p></p>
-</div>
-<div align="center"> <img
-    src="https://streak-stats.demolab.com?user=abdul-rahman-wasim&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
-    height="220" alt="streak graph"  /> </div>
 <p></p>
 <div align="center"> <a href="mailto:abdul.rahman.ar643@gmail.com" target="_blank">  <img
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
