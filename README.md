@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
-<h3 align="center">Senior Frontend Developer | React.js · React Native · Next.js · Ruby on Rails</h3>
+<h3 align="center">Senior Frontend Developer | React.js · React Native · Next.js · TypeScript · Ruby on Rails</h3>
 <hr /> 
 <p>
 - 🔭 I'm currently working on Shopify & BigCommerce Embedded Apps (React + Ruby on Rails)<br/>
